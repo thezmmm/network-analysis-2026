@@ -16,7 +16,7 @@ The course focuses on:
    - Node sizes reflect degrees  
    - Edge thickness reflects number of shared topics  
    - Top-5 most connected courses labeled
-2. Network Centrality Analysis with PageRank
+2. **Network Centrality Analysis with PageRank**
 
    - Generating three synthetic networks: ER random graph, BA preferential attachment graph, WS small-world graph
 
@@ -27,6 +27,15 @@ The course focuses on:
    - Creating scatter plots comparing PageRank vs normalized degree
 
    - Visualizing networks with node color indicating PageRank and node size indicating degree
+3. **Empirical Study of G(n, p) Random Graphs**
+
+   - Generating G(n, p) graphs for fixed 𝑛 across different 𝑝 values
+
+   - Measuring how often the graphs are connected and the average size of the largest component
+
+   - Creating scatter plots showing connectivity frequency and largest component size vs 𝑝
+
+   - Observing how increasing 𝑝 affects graph connectivity and component sizes
 
 ## Requirements
 
